@@ -20,6 +20,7 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
 
 
 
+# Original Notes Below - Kept for Reference Until Project Is Complete
 # Proposal Update
 
 Our project is to determine if it is more lucrative to live in the Twin Cities Metro area or Greater Minnesota based on the ration of wages to cost of living. We'll look at trends in housing and wage data over time; income to expense ratios for each economic development region (EDR) of Minnesota; and compare our finidings for Minnesota to Ohio to see if another state produces similar results.
