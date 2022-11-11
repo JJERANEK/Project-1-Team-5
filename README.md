@@ -20,6 +20,8 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
 
 <br>
 <br>
+<br>
+<br>
 
 # Original Notes Below - Kept for Reference Until Project Is Complete
 # Proposal Update
