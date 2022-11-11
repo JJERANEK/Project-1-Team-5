@@ -5,7 +5,7 @@
 Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
 
   * Twin Cities Metro Area vs Greater Minnesota
-  * Comparison vs Ohio's Greater & metro Areas
+  * Comparison vs Ohio's Greater & Metro Areas
 
 # Data Sources
   * Minnesota Cost of Living (XLS) from the Minnesota Department of Employment and Economic Development. 
