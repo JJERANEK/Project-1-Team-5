@@ -14,8 +14,14 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
     https://mn.gov/deed/data/data-tools/qcew/
 
 # Project Requirements
+ *
+ *
+ *
 
 # Data Visualization
+ *
+ *
+ *
 
 
 <br>
