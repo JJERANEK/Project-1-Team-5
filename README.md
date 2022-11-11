@@ -1,4 +1,5 @@
 # Project-1-Team-5
+![METROvsGREATERMN](group5-project1-readme-header.png)
 
 # Proposal Update
 
@@ -14,5 +15,5 @@ Our project is to determine if it is more lucrative to live in the Twin Cities M
 - https://mn.gov/deed/data/data-tools/qcew/ # Quarterly Census of Employment and Wages Minnesota - XLS
 - https://www.census.gov/ # Population Data - API 
 - https://www.zillow.com/research/data/ # Housing Data - XLS
-    - https://documenter.getpostman.com/view/9197254/UVsFz93V#published-datasets # API option for housing data
+- https://documenter.getpostman.com/view/9197254/UVsFz93V#published-datasets # API option for housing data
 - https://beta.bls.gov/dataViewer/view/timeseries/OEUS390000000000000000004 - # Ohio Labor Data Series ID
