@@ -2,7 +2,7 @@
 ![METROvsGREATERMN](group5-project1-readme-header.png)
 
 # Comparitive Analysis
-Is more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
+Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
 
   * Twin Cities Metro Area vs Greater Minnesota
   * Comparison vs Ohio's Greater & metro Areas
