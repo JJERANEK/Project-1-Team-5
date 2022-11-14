@@ -28,13 +28,20 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
 # Our Project
  * Determine project idea. What is our main question, with follow-up topics. Initial topic questions were formed to help answer our main question.
  * Determine our data sources, and worked to narrow our scope down.
- * Use Python to extrapolat the data.
+ * Use Python to extrapolate the data.
  * Use Pandas to clean and format the data.
  * Created Jupyter Notebooks to describe the data exploration and cleanup process.
  * Created a Jupyter Notebook illustrating the ﬁnal data analysis.
  * Use Matplotlib to create charts.
- * Used a API, to pull data.
+ * Used an API, to pull data.
  * Create a write-up summarizing our major ﬁndings.
+
+
+
+
+
+
+
 
 # Data Visualization 
  * 
