@@ -11,19 +11,19 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
   * Comparison vs Ohio's Greater & Metro Areas
 
 ### Questions:
-- What is the average income to expenses ratio for each economic development regions of Minnesota and how do they compare to each other? # Megan/Brandon
-- How does the change in average income compare with the change in housing prices in these areas over time? # Jordan/Jenny/Megan
-- Does the data we find for Minnesota hold true for Ohio? # Jordan/Jenny
+ * What is the average income to expenses ratio for each economic development regions of Minnesota and how do they compare to each other? 
+ * How does the change in average income compare with the change in housing prices in these areas over time? 
+ * Does the data we find for Minnesota hold true for Ohio? 
 
 # Data Sources
-  * Minnesota Cost of Living (XLS) from the Minnesota Department of Employment and Economic Development. 
-    https://mn.gov/deed/data/data-tools/col/ 
-  * Minnesota Quarterly Census of Employment Wages (XLS) from the Minnesota Department of Employment and Economic Development. 
-    https://mn.gov/deed/data/data-tools/qcew/
-  * US Census Bureau
-    https://www.census.gov/
-  * Federal Housing Finance Agency (FHFA)
-  * Council for Community and Economic Research (C2ER)
+ * Minnesota Cost of Living (XLS) from the Minnesota Department of Employment and Economic Development. 
+   https://mn.gov/deed/data/data-tools/col/ 
+ * Minnesota Quarterly Census of Employment Wages (XLS) from the Minnesota Department of Employment and Economic Development. 
+   https://mn.gov/deed/data/data-tools/qcew/
+ * US Census Bureau
+   https://www.census.gov/
+ * Federal Housing Finance Agency (FHFA)
+ * Council for Community and Economic Research (C2ER)
 
 # Our Project
  * Determine project idea. What is our main question, with follow-up topics. Initial topic questions were formed to help answer our main question.
