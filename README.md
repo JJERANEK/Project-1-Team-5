@@ -13,6 +13,7 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
   * Minnesota Quarterly Census of Employment Wages (XLS) from the Minnesota Department of Employment and Economic Development. 
     https://mn.gov/deed/data/data-tools/qcew/
   * US Census Bureau
+    https://www.census.gov/
   * Federal Housing Finance Agency (FHFA)
   * Council for Community and Economic Research (C2ER)
 
