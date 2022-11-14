@@ -17,7 +17,9 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
   * Federal Housing Finance Agency (FHFA)
   * Council for Community and Economic Research (C2ER)
 
-# Our project
+# Our Project
+ * Determine project idea. What is our main question, with follow-up topics. Initial topic questions were formed to help answer our main question.
+ * Determine our data sources, and worked to narrow our scope down.
  * Use Python to extrapolat the data.
  * Use Pandas to clean and format the data.
  * Created Jupyter Notebooks to describe the data exploration and cleanup process.
@@ -26,10 +28,9 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
  * Used a API, to pull data.
  * Create a write-up summarizing our major ﬁndings.
 
-# Data Visualization
- *
- *
-
+# Data Visualization 
+ * 
+ * 
 
 <br>
 <br>
