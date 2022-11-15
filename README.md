@@ -57,7 +57,6 @@ Using our information from DEED, we were able to find that, on average, a single
 Shockingly, the economic development regions are very comparable. Central (7W) has the best income to expense ratio, followed closely by the Twin Cities region (11), while Southwest Central (6E) showed the worst ratio. However, since these ratios only differ by up to 2%, there is not a significant difference. Regardless of where you lived in Minnesota in 2021, your income to expense ratio was roughly the same as the rest of the state.
 
 ![Income to Expense Ratio Per EDR](Megan/output_data/inc_exp_ratio1.png)
-![Wage vs Expense Minnesota](Megan/output_data/wage_v_expense.png)
 
 Over time, we are able to see that between 2011 and 2021, average household expenses increased 18.8% in total, while average wages increased by 50.58%. Housing price increases has been a point of concern in the US since the COVID-19 pandemic started, so we decided to look at the difference in housing prices between 2011 and 2021 to see if the changes in housing costs were different between the Twin Cities metro area and the rest of the state. We were able to find housing prices have skyrocketed since 2011 in both the Twin Cities region and Greater Minnesota. However, while Greater Minnesota had a 55.55% increase in HPI, the Twin Cities region had a 74% increase. Based on this information, we are able to conclude that there is no significant difference in where you live in Minnesota. There is only about a 2% difference between each EDR in terms of income to expense ratio, and that is already including the changes in housing prices.
 
@@ -69,8 +68,8 @@ Over time, we are able to see that between 2011 and 2021, average household expe
 Based on Cost of Living Index data, we are able to see that Minnesota’s cost of living expenses are about 1% lower than the national average, whereas Ohio’s expenses are about 9% lower. The largest of these differences is in housing, in which Ohio is 23% better than the national average versus only 11% better for Minnesota. Ohio’s expenses were lower than the national average across the board. The median household income for Minnesota is about 25% higher than Ohio, and the median housing value for Minnesota is 58% higher than Ohio. Ohio has a much higher population than Minnesota (51.56% difference), and the total wages for both states show a 52.8% difference, which is on par with the population difference. With the lower expenses and the similar wages to Minnesota, Ohio would be a less costly state to live than Minnesota.
 
 ![Ohio Cost of Living](Jenny/Output_data/col.png)
-![Ohio Household Income](Jenny/MHI.png)
-![Ohio Median Value](Jenny/MV.png)
+![Ohio Household Income](Jenny/Output_data/MHI.png)
+![Ohio Median Value](Jenny/Output_data/MV.png)
 
 # Conclusion
 
