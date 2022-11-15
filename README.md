@@ -16,14 +16,13 @@ Is it more lucrative to live in the Twin Cities Metro area or Greater Minnesota?
  * Does the data we find for Minnesota hold true for Ohio? 
 
 # Data Sources
- * Minnesota Cost of Living (XLS) from the Minnesota Department of Employment and Economic Development. 
-   https://mn.gov/deed/data/data-tools/col/ 
- * Minnesota Quarterly Census of Employment Wages (XLS) from the Minnesota Department of Employment and Economic Development. 
-   https://mn.gov/deed/data/data-tools/qcew/
- * US Census Bureau
-   https://www.census.gov/
- * Federal Housing Finance Agency (FHFA)
- * Council for Community and Economic Research (C2ER)
+- Minnesota Cost of Living (CSV) from the Minnesota Department of Economic Development (DEED) https://mn.gov/deed/data/data-tools/col/ - Used for determining cost of living expenses
+- Minnesota Quarterly Census of Employment Wages (CSV) from the Minnesota Department of Economic Development (DEED) https://mn.gov/deed/data/data-tools/qcew/ - Used for wage data
+- US Census Bureau (API) https://www.census.gov/ - Used for population data and wage data for Ohio
+- Federal Housing Finance Agency (API) (FHFA) https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx#qat - Used for housing price data
+- Council for Community and Economic Research (C2ER) - Used through Rent Cafe to find cost of living data for Ohio
+- Rent Cafe Cost of Living Calculator (Website) https://www.rentcafe.com/cost-of-living-calculator/us/mn/ https://www.rentcafe.com/cost-of-living-calculator/us/oh/ - Used for finding out cost of living expenses for Ohio
+- Federal Reserve Bank of Minneapolis (Website) https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913- - Used for finding increase in wages in Minnesota over time (based on data from Bureau of Labor Statistics)
 
 # Our Project
  * Determine project idea. What is our main question, with follow-up topics. Initial topic questions were formed to help answer our main question.
